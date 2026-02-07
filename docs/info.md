@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+10.000 hz is slowed to XXXhz and the 7-seg Display shows a rotation of the outer columns
 
 ## How to test
 
-Explain how to use your project
+Have a look at the 7-seg display
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+
+7-seg display
